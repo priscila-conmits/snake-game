@@ -4,7 +4,7 @@
 
 - RF-01: La serpiente se mueve automáticamente en la dirección actual.
 - RF-02: El jugador puede cambiar la dirección usando las teclas de flecha.
-- F-03: La serpiente no puede girar 180 grados sobre sí misma.
+- RF-03: La serpiente no puede girar 180 grados sobre sí misma.
 - RF-04: La comida aparece en posiciones aleatorias de la pantalla.
 - RF-05: Cuando la serpiente come la comida, aumenta de tamaño.
 - RF-06: El puntaje aumenta cada vez que la serpiente come.
