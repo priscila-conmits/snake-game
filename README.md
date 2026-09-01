@@ -9,7 +9,7 @@ El objetivo principal del jugador es guiar a la serpiente para que consuma alime
 
 Proyecto individual para la materia Software Factory II.
 
-## Como juagar
+## Como jugar
 1. Al abrir el juego, aparece la pantalla de inicio.
 2. Presionar "Jugar" para comenzar.
 3. Usar las flechas del teclado para mover la serpiente.
