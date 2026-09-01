@@ -16,10 +16,8 @@
 - RF-12: Existen comidas especiales que otorgan puntos extra.
 - RF-13: Aparecen obstáculos aleatorios que la serpiente debe evitar.
 - RF-14: El jugador dispone de una pausa mediante la tecla P.
-- RF-15: Se guarda el récord más alto alcanzado.
-- RF-16: Existe una pantalla de inicio con las opciones Jugar, Ranking y Salir.
-- RF-17: Al finalizar la partida, se muestra el tiempo sobrevivido.
-- RF-18: El jugador puede reiniciar la partida sin cerrar el juego.
+- RF-15: Existe una pantalla de inicio con las opciones Jugar, Ranking y Salir.
+- RF-16: Al finalizar la partida, se muestra el tiempo sobrevivido.
 
 ## Requerimientos No Funcionales
 
