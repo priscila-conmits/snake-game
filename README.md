@@ -5,7 +5,7 @@ Juego 2D en Python con Pygame -- Proyecto Software Factory II
 
 Juego clasico de Snake desarrollado en Python con Pygame.
 
-El objetivo principal del jugador es guiar a la serpiente para que consuma alimentos o especiales que otorgan puntos extras, aumente su tamaño y acumule la mayor cantidad de puntos posible sin chocar contra los limites del mapa, los obstaculos o su propio cuerpo. Tambien puede elegir entre tres niveles de dificultad (Facil, Medio y Dificil), el jugador dispone de una pausa mediante la tecla P, al finalizar la partida, se muestra el tiempo sobrevivido y los puntajes.
+Al abrir el juego, aparece la pantalla de inicio y presionar "Jugar" para comenzar. El objetivo principal del jugador es guiar con las flechas del teclado para mover la serpiente para que consuma alimentos o especiales que otorgan puntos extras, aumente su tamaño y acumule la mayor cantidad de puntos posible sin chocar contra los limites del mapa, los obstaculos o su propio cuerpo. Tambien puede elegir entre tres niveles de dificultad (Facil, Medio y Dificil), el jugador dispone de una pausa mediante la tecla P, al finalizar la partida, se muestra el tiempo sobrevivido y los puntajes.
 
 Proyecto individual para la materia Software Factory II.
 
