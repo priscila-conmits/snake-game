@@ -31,7 +31,8 @@ Proyecto individual para la materia Software Factory II.
 (Los checkboxes se van tildando a medida que se implementa cada funcionalidad)
 
 ## Capturar de pantallas 
-(Agregar imagenes del juego cuando este desarrollado)
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/4a460116-ae5b-410f-9edf-200703e2d53f" />
+
 
 ## Como ejecutar
 
