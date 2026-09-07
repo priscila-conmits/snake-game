@@ -22,4 +22,4 @@ Este programa muestra las pantallas del juego y las transiciones entre ellas.
 | Rankig | Clic en "Salir" | Se cierra el programa | 
 
 ## Diagrama visual
-(Pegar aca la imagen del diagrama hecho de Dray.io o la foto del papel)
+<img width="791" height="156" alt="image" src="https://github.com/user-attachments/assets/ea0c4b0c-e0ac-4978-b2b6-8f2706bc9fdf" />
