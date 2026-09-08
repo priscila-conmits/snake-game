@@ -31,8 +31,7 @@ Proyecto individual para la materia Software Factory II.
 (Los checkboxes se van tildando a medida que se implementa cada funcionalidad)
 
 ## Capturar de pantallas 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/4a460116-ae5b-410f-9edf-200703e2d53f" />
-
+<img width="640" height="480" alt="pngegg" src="https://github.com/user-attachments/assets/4c02846f-3a3a-4b00-a354-7e2f13332eda" />
 
 ## Como ejecutar
 
